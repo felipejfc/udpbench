@@ -1,0 +1,3 @@
+package: github.com/felipejfc/udpbench
+import:
+- package: github.com/uber-go/zap

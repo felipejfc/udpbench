@@ -7,6 +7,7 @@ A UDP server/client performance test tool
 - [ ] Implement start client and start client commands
 - [ ] Make the number of clients configurable
 - [ ] Make the number of req/sec configurable for client
+- [ ] Make the number of req/sec configurable for server responses
 - [ ] Print the received messages on the server along with statistics
 - [ ] Make tests
 - [ ] Make docs
